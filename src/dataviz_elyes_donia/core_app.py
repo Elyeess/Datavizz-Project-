@@ -3,6 +3,7 @@ import pandas as pd
 import logging
 import matplotlib.pyplot as plt
 import re  # ✅ Ajout de l'importation pour l'extraction du code
+import streamlit as st
 
 # Importation des modules développés
 from kpi_dashboard import display_kpi_dashboard
@@ -13,8 +14,7 @@ from ai_engine import generate_recommendations, detect_anomalies, call_llm_for_v
 from dotenv import load_dotenv
 import os
 load_dotenv()
-API_KEY = os.getenv("API_KEY")
-
+API_KEY = st.secrets["API_KEY"]
 if not API_KEY:
     raise ValueError("Clé API manquante. Veuillez la définir dans le fichier .env")
 
