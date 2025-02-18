@@ -119,16 +119,9 @@ Utilisez l’IA pour générer des résumés, détecter les anomalies et créer 
 📊 **Exemples de visualisations générées** :  
 
 ![Visualisation 1](https://github.com/user-attachments/assets/1e645d9a-2792-4c19-803a-db73adeea1a9)  
+---
+
 ![Visualisation 2](https://github.com/user-attachments/assets/7bc5156e-4d64-4431-b480-e8653c978402)  
-
-
-
-
-
-
-
-
-
 
 
 ---
