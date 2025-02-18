@@ -77,8 +77,15 @@ dataviz-elyes-donia/
 ```
 ---
 ## Utilisation 🖥️
-1.Lancer l'application :   
+1.Lancer l'application :  Choisissez parmi le tableau de bord KPI pour afficher les indicateurs clés, l'interprétation pour analyser l'image, ou la génération IA avancée pour détecter les anomalies et produire des visualisations.
 ![a1](https://github.com/user-attachments/assets/7153e0a7-7d33-4714-a1df-bb5b3d9d788f)
+
+2.tableau de bord des kpi 
+![a4](https://github.com/user-attachments/assets/2cadfff1-60cf-4a9e-836e-2b0b8a9ceebb)
+
+![a6](https://github.com/user-attachments/assets/6f0061a1-e36d-4085-91af-4ffd7f614ead)
+
+
 
 
 ---
