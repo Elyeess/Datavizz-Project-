@@ -29,6 +29,11 @@ Bienvenue dans **DataViz Project Elyes-Donia**, une application de visualisation
 
 ---
 
+## 🌐 **Accès à l'application**  
+👉 Découvrez l'application hébergée sur Streamlit :  
+🔗 [DatVizz - Elyes - Donia](https://datvizz-elyes-donia.streamlit.app/)  
+
+---
 ## ⚙️ **Installation**
 
 ### 1️⃣ Clonez le dépôt
