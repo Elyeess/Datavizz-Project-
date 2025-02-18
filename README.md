@@ -75,6 +75,12 @@ dataviz-elyes-donia/
 ├── poetry.lock
 └── README.md
 ```
+---
+## Utilisation 🖥️
+1.Lancer l'application :  
+🔗 [DatVizz - Elyes - Donia](https://datvizz-elyes-donia.streamlit.app/)  
+
+---
 
 ## 👩‍💻 Auteurs
 Elyess Maalel - elyesmaalel@gmail.com
