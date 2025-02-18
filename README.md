@@ -127,6 +127,6 @@ Utilisez l’IA pour générer des résumés, détecter les anomalies et créer 
 
 ---
 
-## 👩‍💻 Auteurs
+## Auteurs
 Elyess Maalel - elyesmaalel@gmail.com
 Donia Tekaya - doniatekaya09@gmail.com
